@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulmakuya
-- 👀 I’m interested in Systems Design & Engineering
-- 🌱 I’m currently learning Building reliable enterprise grade systems that can scale
-- 💞️ I’m looking to collaborate on in interesting Python projects (including but not limited to ML & DL)
+- 👀 I’m interested in building Scalable, end-to-end Data Intensive Solutions
+- 🌱 I’m currently learning how I could use Tech to create a business
+- 💞️ I’m looking to collaborate on in interesting projects (including but not limited to ML & DL)
 - 📫 How to reach me a.makuya@gmail.com
 
 <!---
