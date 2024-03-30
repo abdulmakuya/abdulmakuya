@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulmakuya
 - 👀 I’m interested in building Scalable, end-to-end Data Intensive Solutions
-- 🌱 I’m currently learning how I could use Tech to create a business
-- 💞️ I’m looking to collaborate on in interesting projects (including but not limited to ML & DL)
+- 🌱 I’m currently learning Creative Entepreneurship in my free time
+- 💞️ I’m looking to collaborate on interesting projects (including but not limited to ML & DL)
 - 📫 How to reach me a.makuya@gmail.com
 
 <!---
